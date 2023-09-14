@@ -1,0 +1,8 @@
+.DS_Store
+docs/
+example/
+*.md
+node_modules
+.github/
+expo/plugin/src
+expo/plugin/tsconfig.json
